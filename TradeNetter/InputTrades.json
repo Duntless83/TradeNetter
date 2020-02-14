@@ -1,0 +1,46 @@
+{
+  "Trades": [
+    {
+      "Direction": "Buy",
+      "Quantity": 2,
+      "Price": 100,
+      "Underlying": "Oil"
+    },
+    {
+      "Direction": "Sell",
+      "Quantity": 2,
+      "Price": 120,
+      "Underlying": "Oil"
+    },
+    {
+      "Direction": "Sell",
+      "Quantity": 2,
+      "Price": 110,
+      "Underlying": "Oil"
+    },
+    {
+      "Direction": "Buy",
+      "Quantity": 1,
+      "Price": 100,
+      "Underlying": "Oil"
+    },
+    {
+      "Direction": "Sell",
+      "Quantity": 2,
+      "Price": 110,
+      "Underlying": "NBP"
+    },
+    {
+      "Direction": "Sell",
+      "Quantity": 3,
+      "Price": 110,
+      "Underlying": "NBP"
+    },
+    {
+      "Direction": "Buy",
+      "Quantity": 1,
+      "Price": 150,
+      "Underlying": "NBP"
+    }
+  ]
+}
